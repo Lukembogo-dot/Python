@@ -1,0 +1,8 @@
+🖋️ File Read & Write Challenge:
+We will create a program that:
+
+Reads an existing file.
+
+Modifies its content (for example, converting it to uppercase).
+
+Writes the modified content to a new file.
