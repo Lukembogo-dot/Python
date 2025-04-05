@@ -1,5 +1,0 @@
-Hey, welcome to the Python file handling challenge!
-This is just an example of how to read and write files in Python.
-We're learning how to deal with files and handle any errors that come up.
-Python makes working with files super easy — just a few lines of code and you're good to go.
-Hope you're having fun with the code! Let’s keep learning!
